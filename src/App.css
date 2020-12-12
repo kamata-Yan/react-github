@@ -1,0 +1,15 @@
+.App{
+  display: grid;
+  grid-template-areas: 
+  'Header Header'
+  'NavBar Content '
+  'Footer Footer';
+
+  grid-template-columns: 3fr 9fr;  
+  grid-template-rows: 100px 100% 100px; 
+}
+
+.App div{
+  border: 1px solid black;
+  margin: 2px;
+}

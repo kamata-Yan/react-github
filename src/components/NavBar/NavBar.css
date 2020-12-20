@@ -1,5 +1,7 @@
 .NavBar{
     grid-area: NavBar;
+    background-color: black;
+    color: white;
 }
 
 .hrefs a{
@@ -8,6 +10,6 @@
 }
 
 .activeLink{
-    border-left: 3px solid black;
+    border-left: 3px solid white;
     transition: 0.5s ease;
 }

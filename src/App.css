@@ -5,8 +5,8 @@
   'NavBar Content '
   'Footer Footer';
 
-  grid-template-columns: 3fr 9fr;  
-  grid-template-rows: 100px 100% 100px; 
+  grid-template-columns: 3fr 16fr;  
+  grid-template-rows: 100px 125% 115px; 
 }
 
 .App div{
